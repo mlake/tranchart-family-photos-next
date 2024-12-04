@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c8c94b1-8039-4505-806b-fbe247268e2a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/nextjs.yml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733300476914</updated>
-      <workItem from="1733300478240" duration="6754000" />
+      <workItem from="1733300478240" duration="7068000" />
     </task>
     <task id="LOCAL-00001" summary="prepare for github actions">
       <option name="closed" value="true" />
@@ -141,7 +139,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733307416528</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="use the out folder">
+      <option name="closed" value="true" />
+      <created>1733307794751</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733307794751</updated>
+    </task>
+    <task id="LOCAL-00008" summary="adding static build">
+      <option name="closed" value="true" />
+      <created>1733307818660</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733307818660</updated>
+    </task>
+    <task id="LOCAL-00009" summary="adding static build">
+      <option name="closed" value="true" />
+      <created>1733307959036</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733307959036</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +176,9 @@
     <MESSAGE value="adding env variables to actions" />
     <MESSAGE value="adding env variables to actions 2" />
     <MESSAGE value="removed quotes" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed quotes" />
+    <MESSAGE value="use" />
+    <MESSAGE value="use the out folder" />
+    <MESSAGE value="adding static build" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding static build" />
   </component>
 </project>

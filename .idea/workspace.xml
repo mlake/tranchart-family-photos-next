@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c8c94b1-8039-4505-806b-fbe247268e2a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,10 +16,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2pkC1vw0yDWKsjCPH5hNfxoLPD8" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -33,6 +36,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
     "npm.dev.executor": "Run",
     "ts.external.directory.path": "/Users/mlake/alleyway/tranchart-family-photos-next/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
@@ -43,7 +47,17 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -56,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
@@ -76,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733300476914</updated>
-      <workItem from="1733300478240" duration="5256000" />
+      <workItem from="1733300478240" duration="6754000" />
     </task>
     <task id="LOCAL-00001" summary="prepare for github actions">
       <option name="closed" value="true" />
@@ -94,7 +109,39 @@
       <option name="project" value="LOCAL" />
       <updated>1733305908725</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="notes">
+      <option name="closed" value="true" />
+      <created>1733306277090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733306277090</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding env variables to actions">
+      <option name="closed" value="true" />
+      <created>1733306938753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733306938753</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adding env variables to actions 2">
+      <option name="closed" value="true" />
+      <created>1733307086504</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733307086504</updated>
+    </task>
+    <task id="LOCAL-00006" summary="removed quotes">
+      <option name="closed" value="true" />
+      <created>1733307416528</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733307416528</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +150,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prepare for github actions" />
     <MESSAGE value="adding more files" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding more files" />
+    <MESSAGE value="notes" />
+    <MESSAGE value="adding env variables to actions" />
+    <MESSAGE value="adding env variables to actions 2" />
+    <MESSAGE value="removed quotes" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed quotes" />
   </component>
 </project>

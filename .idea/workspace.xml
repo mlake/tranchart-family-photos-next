@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c8c94b1-8039-4505-806b-fbe247268e2a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Icons/Logo.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/SharedModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SharedModal.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/p/[photoId].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/p/[photoId].tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/cachedImages.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/cachedImages.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/types.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733300476914</updated>
-      <workItem from="1733300478240" duration="12162000" />
+      <workItem from="1733300478240" duration="12931000" />
     </task>
     <task id="LOCAL-00001" summary="prepare for github actions">
       <option name="closed" value="true" />
@@ -226,7 +220,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733312090100</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add file names">
+      <option name="closed" value="true" />
+      <created>1733313637137</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1733313637137</updated>
+    </task>
+    <task id="LOCAL-00017" summary="adding descritpion">
+      <option name="closed" value="true" />
+      <created>1733314048018</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1733314048018</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +259,9 @@
     <MESSAGE value="removing" />
     <MESSAGE value="reverting settings for vercel deployment" />
     <MESSAGE value="adding script for making images into 3:2" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding script for making images into 3:2" />
+    <MESSAGE value="add file names" />
+    <MESSAGE value="adding descritpion" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding descritpion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

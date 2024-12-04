@@ -28,10 +28,10 @@ jobs:
   # Build job
   build:
     env:
-      NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME: "doxqsq6gh"
+      NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME: doxqsq6gh
       CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
-      CLOUDINARY_API_KEY: "626128965724915"
-      CLOUDINARY_FOLDER: "tranchart_source_images"
+      CLOUDINARY_API_KEY: 626128965724915
+      CLOUDINARY_FOLDER: tranchart_source_images
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

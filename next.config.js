@@ -1,8 +1,6 @@
 module.exports = {
-  output: "export",
-  distDir: 'docs',
   images: {
-    unoptimized: true,
+    unoptimized: false,
     formats: ["image/avif", "image/webp"],
     remotePatterns: [
       {

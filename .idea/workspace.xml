@@ -5,7 +5,157 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c8c94b1-8039-4505-806b-fbe247268e2a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/nextjs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/29.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/31.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/32.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/33.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/34.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/35.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/36.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/37.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/38.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/39.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/40.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/41.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/42.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/43.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/44.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/45.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/46.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/47.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/48.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/49.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/50.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/51.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/52.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/53.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/54.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/55.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/56.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/57.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/58.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/59.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/60.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/61.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/62.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/63.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/data/96N5B1r_MbGDOZx4SHws9/p/9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/96N5B1r_MbGDOZx4SHws9/_buildManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/96N5B1r_MbGDOZx4SHws9/_ssgManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/702-464f934a68aa5f1b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/982-6949dc24199e82f9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/framework-a6b3d2fb26bce5d1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/main-007eb23af4609204.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/pages/_app-1ca8c40157a96a36.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/pages/_error-fde50cb7f1ab27e0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/pages/index-fecd3643d742a0fb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/pages/p/[photoId]-8aa96c43027a31b8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/polyfills-42372ed130431b0a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/webpack-fbb920bddf9bf0a6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/css/bc0f9d26ba2265c9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/og-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/17.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/19.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/20.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/21.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/23.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/24.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/25.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/26.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/27.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/28.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/29.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/30.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/31.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/32.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/33.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/34.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/35.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/36.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/37.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/38.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/39.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/40.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/41.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/42.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/43.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/44.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/45.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/46.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/47.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/48.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/49.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/50.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/51.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/52.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/54.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/55.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/56.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/57.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/58.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/59.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/60.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/61.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/62.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/63.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p/9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +178,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/mlake/alleyway/tranchart-family-photos-next",
+    "last_opened_file_path": "/Users/mlake/alleyway/tranchart-family-photos-next/docs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -42,6 +192,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -89,7 +240,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733300476914</updated>
-      <workItem from="1733300478240" duration="7068000" />
+      <workItem from="1733300478240" duration="8069000" />
     </task>
     <task id="LOCAL-00001" summary="prepare for github actions">
       <option name="closed" value="true" />
@@ -163,7 +314,39 @@
       <option name="project" value="LOCAL" />
       <updated>1733307959036</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="remove file">
+      <option name="closed" value="true" />
+      <created>1733308091134</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733308091135</updated>
+    </task>
+    <task id="LOCAL-00011" summary="move out to docs">
+      <option name="closed" value="true" />
+      <created>1733308194018</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733308194018</updated>
+    </task>
+    <task id="LOCAL-00012" summary="prevent jeykll">
+      <option name="closed" value="true" />
+      <created>1733308510683</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733308510683</updated>
+    </task>
+    <task id="LOCAL-00013" summary="prevent jeykll 2">
+      <option name="closed" value="true" />
+      <created>1733308544419</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733308544419</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +362,10 @@
     <MESSAGE value="use" />
     <MESSAGE value="use the out folder" />
     <MESSAGE value="adding static build" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding static build" />
+    <MESSAGE value="remove file" />
+    <MESSAGE value="move out to docs" />
+    <MESSAGE value="prevent jeykll" />
+    <MESSAGE value="prevent jeykll 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="prevent jeykll 2" />
   </component>
 </project>

@@ -1,4 +1,5 @@
 module.exports = {
+  output: "export",
   images: {
     formats: ["image/avif", "image/webp"],
     remotePatterns: [
@@ -6,7 +7,7 @@ module.exports = {
         protocol: "https",
         hostname: "res.cloudinary.com",
         port: "",
-        pathname: "/my-account/**",
+        pathname: "/doxqsq6gh/**",
       },
     ],
   },

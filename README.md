@@ -2,7 +2,9 @@
 
 ```bash
 pip install cloudinary-cli
-cld -c cloudinary://626128965724915:xxxxxxxxxxxxxxxxxxxxxxxxx upload_dir tranchart_output_images -f tranchart_source_images
+cld admin create_upload_preset name=my_preset use_filename=true unique_filename=false
+
+cld -c cloudinary://626128965724915:xxxxxxxxxxxxxxxxxxxxxxxxx upload_dir tranchart_output_images -f tranchart_source_images -p my_preset
 ````
 
 site hosted on vercel

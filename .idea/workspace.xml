@@ -1,7 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c8c94b1-8039-4505-806b-fbe247268e2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9365.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9377.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9386.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9397.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9407.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9418.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9427.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9439.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9449.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9460.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9470.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9477.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9489.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9500.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9508.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9517.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9527.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9538.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9545.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9557.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9568.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9580.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9589.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9597.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9606.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9617.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9630.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9635.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9648.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9655.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9665.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9680.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9685.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9698.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9705.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9716.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9730.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9738.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9751.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9756.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9768.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9778.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9788.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9796.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9807.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9818.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9826.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9838.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9850.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9858.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9867.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9879.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9886.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9897.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9910.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9915.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9926.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9940.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9948.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9959.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9969.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9977.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9986.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tranchart_source_images/IMG_9997.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SharedModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SharedModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/p/[photoId].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/p/[photoId].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/og-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/og-image.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2pkC1vw0yDWKsjCPH5hNfxoLPD8" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{}</component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mlake/alleyway/tranchart-family-photos-next",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "ts.external.directory.path": "/Users/mlake/alleyway/tranchart-family-photos-next/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c8c94b1-8039-4505-806b-fbe247268e2a" name="Changes" comment="" />
+      <created>1733300476914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733300476914</updated>
+      <workItem from="1733300478240" duration="4719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
 </project>

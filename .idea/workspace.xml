@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c8c94b1-8039-4505-806b-fbe247268e2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nvmrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pnpm-workspace.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="7c8c94b1-8039-4505-806b-fbe247268e2a" name="Changes" comment="low hanging fruit, still next 15">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/pages.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.nojekyll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_document.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="169" />
+    <option name="cachedIndexableFilesCount" value="171" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,6 +27,65 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.003563081285971" />
+      <entry key="MS500" value="1.5175834952443024" />
+      <entry key="S2" value="4.438451015547013" />
+      <entry key="S5" value="7.570437584558787" />
+      <entry key="S10" value="9.427210214180304" />
+      <entry key="S30" value="11.072326627342523" />
+      <entry key="S60" value="11.741200312111753" />
+      <entry key="M2" value="12.432217589951687" />
+      <entry key="M5" value="13.199453611112318" />
+      <entry key="M10" value="13.562015069005144" />
+      <entry key="M15" value="13.69881679356272" />
+      <entry key="M30" value="13.844589858953517" />
+      <entry key="H1" value="13.921046792339478" />
+      <entry key="H2" value="13.960205751673763" />
+      <entry key="H4" value="13.980022752370573" />
+      <entry key="D1" value="13.996659269486456" />
+      <entry key="W1" value="13.999522477962783" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.96937803858233" />
+      <entry key="MS500" value="1.5071124002736431" />
+      <entry key="S2" value="4.430334157977675" />
+      <entry key="S5" value="7.564469505130392" />
+      <entry key="S10" value="9.423371475579309" />
+      <entry key="S30" value="11.070757701235378" />
+      <entry key="S60" value="11.740246433236392" />
+      <entry key="M2" value="12.431585751804896" />
+      <entry key="M5" value="13.19911841982179" />
+      <entry key="M10" value="13.561826845503573" />
+      <entry key="M15" value="13.69868604104062" />
+      <entry key="M30" value="13.844521654499658" />
+      <entry key="H1" value="13.921011944631692" />
+      <entry key="H2" value="13.960188136440932" />
+      <entry key="H4" value="13.980013896270103" />
+      <entry key="D1" value="13.996657786680926" />
+      <entry key="W1" value="13.999522265966446" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -37,35 +93,35 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "CidrDebugProfileConversion": "true",
-    "CidrDebugProfileConversion262": "true",
-    "Node.js.convert_to_3by2.js.executor": "Debug",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "javascript.nodejs.core.library.configured.version": "26.13.0",
-    "javascript.nodejs.core.library.typings.version": "26.6.6",
-    "javascript.preferred.runtime.type.id": "node",
-    "js.debugger.nextJs.config.created.client": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/mlake/alleyway/tranchart-family-photos-next/docs",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "pnpm",
-    "npm.build.executor": "Run",
-    "npm.dev.executor": "Run",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "settings.javascript.runtime",
-    "ts.external.directory.path": "/Users/mlake/alleyway/tranchart-family-photos-next/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;CidrDebugProfileConversion&quot;: &quot;true&quot;,
+    &quot;CidrDebugProfileConversion262&quot;: &quot;true&quot;,
+    &quot;Node.js.convert_to_3by2.js.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;26.13.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;26.6.6&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mlake/alleyway/tranchart-family-photos-next/docs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.runtime&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/mlake/alleyway/tranchart-family-photos-next/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
@@ -124,7 +180,8 @@
       <option name="presentableId" value="Default" />
       <updated>1733300476914</updated>
       <workItem from="1733300478240" duration="20519000" />
-      <workItem from="1794328690691" duration="1507000" />
+      <workItem from="1794328690691" duration="2233000" />
+      <workItem from="1794331011781" duration="729000" />
     </task>
     <task id="LOCAL-00001" summary="prepare for github actions">
       <option name="closed" value="true" />
@@ -270,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733314405542</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="low hanging fruit, still next 15">
+      <option name="closed" value="true" />
+      <created>1794330413239</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1794330413239</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +372,8 @@
     <MESSAGE value="add file names" />
     <MESSAGE value="adding descritpion" />
     <MESSAGE value="change image" />
-    <option name="LAST_COMMIT_MESSAGE" value="change image" />
+    <MESSAGE value="low hanging fruit, still next 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="low hanging fruit, still next 15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

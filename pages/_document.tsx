@@ -5,7 +5,10 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <link rel="icon" href="/favicon.ico" />
+          <link
+            rel="icon"
+            href={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/favicon.ico`}
+          />
           <meta
             name="description"
             content="Old glass negatives found in the family attic"

@@ -1,0 +1,7 @@
+allowBuilds:
+  # Native image binary used by Next.js image optimization.
+  sharp: true
+  # Downloads the jpegtran binary for imagemin-jpegtran.
+  jpegtran-bin: true
+  # Postinstall is only a funding banner.
+  core-js: false

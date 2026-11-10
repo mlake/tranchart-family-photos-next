@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c8c94b1-8039-4505-806b-fbe247268e2a" name="Changes" comment="low hanging fruit, still next 15">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/pages.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.nojekyll" afterDir="false" />
+    <list default="true" id="7c8c94b1-8039-4505-806b-fbe247268e2a" name="Changes" comment="make pages output">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_document.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,23 +25,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.003563081285971" />
-      <entry key="MS500" value="1.5175834952443024" />
-      <entry key="S2" value="4.438451015547013" />
-      <entry key="S5" value="7.570437584558787" />
-      <entry key="S10" value="9.427210214180304" />
-      <entry key="S30" value="11.072326627342523" />
-      <entry key="S60" value="11.741200312111753" />
-      <entry key="M2" value="12.432217589951687" />
-      <entry key="M5" value="13.199453611112318" />
-      <entry key="M10" value="13.562015069005144" />
-      <entry key="M15" value="13.69881679356272" />
-      <entry key="M30" value="13.844589858953517" />
-      <entry key="H1" value="13.921046792339478" />
-      <entry key="H2" value="13.960205751673763" />
-      <entry key="H4" value="13.980022752370573" />
-      <entry key="D1" value="13.996659269486456" />
-      <entry key="W1" value="13.999522477962783" />
+      <entry key="MS100" value="1.0402929592413428" />
+      <entry key="MS500" value="2.322836479283182" />
+      <entry key="S2" value="6.22752877849192" />
+      <entry key="S5" value="10.37669895802774" />
+      <entry key="S10" value="13.048419389594248" />
+      <entry key="S30" value="15.527383816654579" />
+      <entry key="S60" value="16.452229648677516" />
+      <entry key="M2" value="17.27984816814376" />
+      <entry key="M5" value="18.13513083084279" />
+      <entry key="M10" value="18.52906637211107" />
+      <entry key="M15" value="18.676653644316904" />
+      <entry key="M30" value="18.833403307398044" />
+      <entry key="H1" value="18.915426018185432" />
+      <entry key="H2" value="18.957388326555833" />
+      <entry key="H4" value="18.978612259438812" />
+      <entry key="D1" value="18.996423938266" />
+      <entry key="W1" value="18.999488853093954" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -67,23 +63,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.96937803858233" />
-      <entry key="MS500" value="1.5071124002736431" />
-      <entry key="S2" value="4.430334157977675" />
-      <entry key="S5" value="7.564469505130392" />
-      <entry key="S10" value="9.423371475579309" />
-      <entry key="S30" value="11.070757701235378" />
-      <entry key="S60" value="11.740246433236392" />
-      <entry key="M2" value="12.431585751804896" />
-      <entry key="M5" value="13.19911841982179" />
-      <entry key="M10" value="13.561826845503573" />
-      <entry key="M15" value="13.69868604104062" />
-      <entry key="M30" value="13.844521654499658" />
-      <entry key="H1" value="13.921011944631692" />
-      <entry key="H2" value="13.960188136440932" />
-      <entry key="H4" value="13.980013896270103" />
-      <entry key="D1" value="13.996657786680926" />
-      <entry key="W1" value="13.999522265966446" />
+      <entry key="MS100" value="0.9762846898603147" />
+      <entry key="MS500" value="2.2180931828138477" />
+      <entry key="S2" value="6.171023597382067" />
+      <entry key="S5" value="10.347856213375827" />
+      <entry key="S10" value="13.03231276990003" />
+      <entry key="S30" value="15.521494309249881" />
+      <entry key="S60" value="16.449084566554625" />
+      <entry key="M2" value="17.27811276697494" />
+      <entry key="M5" value="18.13435186219668" />
+      <entry key="M10" value="18.528655766523006" />
+      <entry key="M15" value="18.67637451551993" />
+      <entry key="M30" value="18.833260850469244" />
+      <entry key="H1" value="18.915354027425167" />
+      <entry key="H2" value="18.957352135495828" />
+      <entry key="H4" value="18.978594114336985" />
+      <entry key="D1" value="18.99642090714141" />
+      <entry key="W1" value="18.999488419905443" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -181,7 +177,7 @@
       <updated>1733300476914</updated>
       <workItem from="1733300478240" duration="20519000" />
       <workItem from="1794328690691" duration="2233000" />
-      <workItem from="1794331011781" duration="729000" />
+      <workItem from="1794331011781" duration="1757000" />
     </task>
     <task id="LOCAL-00001" summary="prepare for github actions">
       <option name="closed" value="true" />
@@ -335,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794330413239</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="make pages output">
+      <option name="closed" value="true" />
+      <created>1794332603425</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1794332603425</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,7 +377,8 @@
     <MESSAGE value="adding descritpion" />
     <MESSAGE value="change image" />
     <MESSAGE value="low hanging fruit, still next 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="low hanging fruit, still next 15" />
+    <MESSAGE value="make pages output" />
+    <option name="LAST_COMMIT_MESSAGE" value="make pages output" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

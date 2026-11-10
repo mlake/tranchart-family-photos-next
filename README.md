@@ -1,5 +1,10 @@
 # Photos Found in Attic
 
+should be visible as a static site here:
+
+https://mlake.github.io/tranchart-family-photos-next
+
+
 ```bash
 pip install cloudinary-cli
 cld admin create_upload_preset name=my_preset use_filename=true unique_filename=false
